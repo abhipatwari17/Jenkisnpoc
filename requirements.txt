@@ -1,0 +1,5 @@
+# requirements.txt
+
+# Specify your project's dependencies and their versions
+# Example:
+# package-name==1.0.0
