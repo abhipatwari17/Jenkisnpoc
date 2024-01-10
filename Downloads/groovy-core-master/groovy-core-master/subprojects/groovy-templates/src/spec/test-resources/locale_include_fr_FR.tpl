@@ -1,1 +1,0 @@
-yield 'Texte en français'

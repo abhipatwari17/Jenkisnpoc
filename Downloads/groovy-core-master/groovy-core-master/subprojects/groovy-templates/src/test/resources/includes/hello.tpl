@@ -1,1 +1,0 @@
-yield 'Hello from include!'

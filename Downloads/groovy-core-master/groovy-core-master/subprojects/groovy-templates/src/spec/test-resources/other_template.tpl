@@ -1,1 +1,0 @@
-yield 'included as a template'

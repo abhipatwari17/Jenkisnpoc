@@ -1,1 +1,0 @@
-yield 'Default text'
